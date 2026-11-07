@@ -2,13 +2,13 @@
 
 A small WebAR "museum exhibit" built with A-Frame and AR.js. Point your phone camera at the Hiro marker and a red fox appears on a display plinth, with a name placard, a bouncing orb you can tap, and a button that shows a fun fact.
 
-**Group number:** [add group number]
+**Group number:40
 
 **Members:**
-- [Member 1]
-- [Member 2]
+- haroon mrm
+- ahamed tr
 - J H Felthmann
-- [Member 4]
+- nahid
 
 **Live app (HTTPS):** https://[github-username].github.io/[repository-name]/
 
