@@ -7,7 +7,7 @@ A small WebAR "museum exhibit" built with A-Frame and AR.js. Point your phone ca
 **Members:**
 - [Member 1]
 - [Member 2]
-- [Member 3]
+- J H Felthmann
 - [Member 4]
 
 **Live app (HTTPS):** https://[github-username].github.io/[repository-name]/
